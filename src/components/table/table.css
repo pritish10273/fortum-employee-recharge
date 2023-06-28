@@ -1,0 +1,58 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th,
+  td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  
+  button {
+    padding: 8px 16px;
+    background-color: rgb(72, 182, 72);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color:  green;
+  }
+
+  .employee-form {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #f1f1f1;
+    border-radius: 4px;
+  }
+  
+  .employee-form label {
+    margin-right: 10px;
+  }
+  
+  .employee-form input {
+    margin-bottom: 10px;
+  }
+  
+  .employee-form button {
+    margin-top: 10px;
+    padding: 6px 12px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .employee-form button:hover {
+    background-color: #45a049;
+  }
+  
